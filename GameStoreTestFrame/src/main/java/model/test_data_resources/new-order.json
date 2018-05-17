@@ -1,0 +1,22 @@
+[
+  {
+    "key": "login",
+    "email": "dianaa@gmail.com",
+    "fullName": "Diana Shchetynina",
+    "password": "eh1as1",
+    "productNameFifa16": "Fifa 16",
+    "productNameFifa17": "Fifa 17",
+    "productNameFifa18": "Fifa 18",
+    "productNameBattlefield": "Battlefield",
+    "productNameStarWars": "Star Wars",
+    "productNameFifa18Prime": "FIFA 18 Prime",
+    "productNameNeedForSpeed": "Need For Speed",
+    "creditCard": "4556215639413412",
+    "cvv": "111",
+    "loginLink": "http://games-app.azurewebsites.net/login",
+    "gamesLink": "http://games-app.azurewebsites.net/games",
+    "bucketLink": "http://games-app.azurewebsites.net/bucket",
+    "myGamesLink": "http://games-app.azurewebsites.net/my-games",
+    "myOrdersLink": "http://games-app.azurewebsites.net/my-orders"
+  }
+]
